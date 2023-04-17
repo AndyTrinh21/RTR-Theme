@@ -1,5 +1,5 @@
 /**
- * @name RTR
+ * @name RTRTheme1
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,12 +12,12 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #10335B;
-  --hover-color: #3F90ED;
+  --main-color: #2780e6;
+  --hover-color: #1e63b3;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/ADXSwt7.jpg');
+  --background-image: url('https://i.imgur.com/ZptYema.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
